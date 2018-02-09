@@ -20,4 +20,6 @@ function ResetPassword () {
     .LINK
     http://www.fabrikam.com/extension.html
     #>
+
+    # fix the bug 2
 }
